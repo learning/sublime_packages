@@ -6,12 +6,12 @@
             "description": "Allow you run a HTTP Server in SublimeText 2, and serves all the open project folders.",
             "author": "Learning",
             "homepage": "https://github.com/learning/SublimeServer",
-            "last_modified": "2012-06-02 00:00:00",
+            "last_modified": "2012-06-28 20:53:18",
             "platforms": {
                 "*": [
                     {
-                        "version": "0.1.0",
-                        "url": "https://nodeload.github.com/learning/SublimeServer/zipball/0.1.0"
+                        "version": "0.1.2",
+                        "url": "https://nodeload.github.com/learning/SublimeServer/zipball/0.1.2"
                     }
                 ]
             }

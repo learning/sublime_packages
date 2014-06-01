@@ -1,20 +1,19 @@
 {
-    "schema_version": "1.2",
+    "schema_version": "2.0",
     "packages": [
         {
             "name": "SublimeServer",
-            "description": "Allow you run a HTTP Server in SublimeText 2, and serves all the open project folders.",
+            "description": "Make Sublime as a HTTP server, compatible with sublime 3",
             "author": "Learning",
-            "homepage": "https://github.com/learning/SublimeServer",
-            "last_modified": "2012-08-31 15:50:52",
-            "platforms": {
-                "*": [
-                    {
-                        "version": "0.2.1",
-                        "url": "https://nodeload.github.com/learning/SublimeServer/zipball/0.2.1"
-                    }
-                ]
-            }
+            "details": "https://github.com/learning/SublimeServer",
+			"releases": [
+				{
+					"version": "0.3.1",
+					"url": "https://github.com/learning/SublimeServer/archive/0.3.1.zip",
+					"date": "2013-06-01 20:00:00",
+					"sublime_text": "*"
+				}
+			]
         }
     ]
 }

@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "SublimeServer",
-            "description": "Make Sublime as a HTTP server, compatible with sublime 3",
+            "description": "Turn you Sublime Text editor into a HTTP server, and serves all the open project folders, now support ST2 and ST3",
             "author": "Learning",
             "details": "https://github.com/learning/SublimeServer",
             "homepage": "https://github.com/learning/SublimeServer",
@@ -13,9 +13,9 @@
             "labels": ["http", "http server", "nginx", "apache", "livereload", "html"],
             "releases": [
                 {
-        			"version": "0.3.1",
-        			"url": "https://github.com/learning/SublimeServer/archive/0.3.1.zip",
-        			"date": "2013-06-01 20:00:00",
+        			"version": "0.3.2",
+        			"url": "https://github.com/learning/SublimeServer/archive/0.3.2.zip",
+        			"date": "2014-10-12 22:16:53",
         			"sublime_text": "*"
         		}
         	]
